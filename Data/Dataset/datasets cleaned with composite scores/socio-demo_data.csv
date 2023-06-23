@@ -1,0 +1,200 @@
+user_id,Timestamp,What is your weight? kg,Year of birth,Country of birth,Gender,Current employment,What kind of studies are you currently pursuing?,What unit you use for height ,What is your height? cm
+1,4/17/2023 16:02:04,70,1999,Catalunya,Male,Student,Master's,,184
+2,4/17/2023 16:03:39,84,1995,Bangladesh ,Male,Student,Master's,,181
+3,4/17/2023 16:04:34,63,1998,Bangladesh ,Female,Student,Master's,,164
+4,4/18/2023 12:42:43,65,2000,Italy,Female,Student,Master's,,170
+5,05/02/2023 10:15,78,1995,Bangladesh ,Female,Employee,,,167.64
+6,05/02/2023 10:28,60,1996,Bangladesh ,Female,Employee,,,152.4
+7,05/02/2023 10:29,80.7,1997,Bangladesh ,Male,Employee,,,177.8
+8,05/02/2023 11:10,68,1996,India,Male,Student,Master's,,165
+9,05/02/2023 11:16,67,1997,Bangladesh ,Female,Student,Master's,,162.56
+10,05/02/2023 12:17,62,1993,Pakistan,Male,Student,PhD,,176
+11,05/02/2023 12:21,80,1996,Pakistan ,Male,Student,Master's,,152.4
+12,05/02/2023 12:28,70,2002,Kosovo,Female,Student,Bachelor's,,164
+13,05/02/2023 12:30,66,1986,Bangladesh ,Male,Self-employed worker,,,165
+14,05/02/2023 12:31,79,1992,Pakistan,Female,Employee,,,170.688
+15,05/02/2023 12:39,64,1992,Bangladesh ,Male,Employee,,,167
+16,05/02/2023 12:43,72,1989,Pakistan ,Male,Employee,,,182.88
+17,05/02/2023 12:43,52,1997,Bangladesh ,Female,Student,PhD,,162
+18,05/02/2023 12:45,110,1978,Bangladesh ,Male,Employee,,,167.64
+19,05/02/2023 12:46,83,1995,Bangladesh ,Male,Student,Master's,,181
+20,05/02/2023 12:48,65,1999,Italy,Prefer not to say,Student,Master's,,160.5
+21,05/02/2023 12:48,65,1995,Pakistan,Male,Student,Master's,,172.72
+22,05/02/2023 12:51,85,1999,Bangladesh ,Male,Student,Bachelor's,,180.34
+23,05/02/2023 12:53,110,1987,Bangladesh ,Male,Student,PhD,,170
+24,05/02/2023 12:53,56,2000,Italy,Male,Student,Master's,,170
+25,05/02/2023 12:54,82,1997,Bangladesh ,Female,Employee,,,172
+26,05/02/2023 12:55,61,2000,Bangladesh ,Female,Student,Bachelor's,,150
+27,05/02/2023 12:56,66,1998,Bangladesh ,Female,Employee,,,157.48
+28,05/02/2023 12:59,71,1998,Italy,Male,Student,Master's,,179
+29,05/02/2023 13:01,57,1996,Bangladesh ,Female,Employee,,,160
+30,05/02/2023 13:01,67,1992,Bangladesh ,Male,Employee,,,162.56
+31,05/02/2023 13:05,53,2000,Italy,Female,Student,Master's,,161
+32,05/02/2023 13:11,60,2002,Kosovo,Female,Student,Bachelor's,,164
+33,05/02/2023 13:21,68,1996,Bangladesh ,Female,Student,Master's,,152.4
+34,05/02/2023 13:23,63,1998,Canada,Female,Employee,,,152.4
+35,05/02/2023 13:24,72,1987,Iran,Male,Student,Master's,,166
+36,05/02/2023 13:24,87,1996,Bangladesh ,Male,Mix of things,,,145
+37,05/02/2023 13:26,70,1996,Pakistan,Female,Employee,,,175
+38,05/02/2023 13:26,76,1998,Pakistan,Male,Employee,,,179
+39,05/02/2023 13:27,67,1997,Azerbaijan ,Female,Student,Master's,,174
+40,05/02/2023 13:28,55,1995,Pakistan ,Female,Employee,,,160.02
+41,05/02/2023 13:30,60,2002,Italy,Female,Student,Bachelor's,,177
+42,05/02/2023 13:35,73,1994,United Arab emirates,Male,Student,Master's,,172
+43,05/02/2023 13:43,84,1994,Pakistan ,Male,Student,PhD,,172.72
+44,05/02/2023 13:43,75,1999,Italy,Male,Student,Master's,,177
+45,05/02/2023 13:48,60,1997,Japan,Female,Employee,,,160
+46,05/02/2023 13:49,75,1995,Kazakhstan,Male,Student,Master's,,180
+47,05/02/2023 13:54,70,1994,Pakistan,Male,Student,PhD,,175.26
+48,05/02/2023 13:56,99,1991,Palau,Male,Student,Master's,,171
+49,05/02/2023 13:58,63.5,1996,United States ,Female,Employee,,,170.18
+50,05/02/2023 14:00,84,1997,Bangladesh ,Male,Employee,,,187.96
+51,05/02/2023 14:01,58,1998,Italy,Female,Student,Master's,,170
+52,05/02/2023 14:03,48,2007,Italy,Female,Student,Preuniversity education,,160
+53,05/02/2023 14:05,70,1997,Pakistan,Female,Employee,,,162.56
+54,05/02/2023 14:08,46,1986,Pakistan ,Female,Manager/Owner,,,162.56
+55,05/02/2023 14:10,54,1995,Pakistan,Male,Student,Master's,,165
+56,05/02/2023 14:15,50,Prefer not to say,Prefer not to say,Prefer not to say,Student,PhD,,156
+57,05/02/2023 14:16,65,2001,Italy,Male,Student,Bachelor's,,175
+58,05/02/2023 14:20,68,1993,Greece,Male,Student,Master's,,178
+59,05/02/2023 14:26,61,1997,Bangladesh ,Female,Student,Master's,,160.02
+60,05/02/2023 14:28,81,1968,Italy,Male,Self-employed worker,,,176
+61,05/02/2023 14:28,69,1993,Pakistan,Male,Student,PhD,,163
+62,05/02/2023 14:29,74,1995,Bangladesh ,Male,Employee,,,146.304
+63,05/02/2023 14:32,110,1998,Italy,Male,Student,Master's,,1.85
+64,05/02/2023 14:33,76,1995,Bangladesh ,Male,Employee,,,1.68
+65,05/02/2023 14:43,63,1998,Ecuador,Male,Student,Master's,,170
+66,05/02/2023 14:50,83,1993,Malaysia ,Female,Unemployed,,,110
+67,05/02/2023 14:57,70,1999,Tunisia,Female,Student,Master's,,1.73
+68,05/02/2023 15:14,93,2000,India,Male,Student,Master's,,171
+69,05/02/2023 15:18,48,2000,Pakistan,Female,Student,Master's,,152
+70,05/02/2023 15:23,70,2000,Italy,Female,Student,Master's,,1.72
+71,05/02/2023 15:29,58,1999,Italy,Male,Student,Master's,,170
+72,05/02/2023 15:33,75,1993,Pakistan ,Female,Employee,,,170
+73,05/02/2023 15:38,80,1996,Italy ,Male,Student,Master's,,186
+74,05/02/2023 15:48,92,1994,Bangladesh ,Female,Employee,,,156
+75,05/02/2023 16:20,51,1994,Bangladesh ,Female,Employee,,,125
+76,05/02/2023 16:21,65,1999,Italy,Male,Student,Master's,,183
+77,05/02/2023 16:23,88,1989,Pakistan ,Male,Self-employed worker,,,185
+78,05/02/2023 16:31,51,1992,Bangladesh ,Female,Manager/Owner,,,164.592
+79,05/02/2023 16:33,55,1995,Bangladesh ,Female,Employee,,,165
+80,05/02/2023 16:40,49,2001,Bangladesh ,Female,Student,Bachelor's,,162
+81,05/02/2023 16:50,58,1993,Bangladesh ,Female,Employee,,,152
+82,05/02/2023 16:56,50,1998,Turkey,Female,Student,Master's,,163
+83,05/02/2023 17:20,66,2000,Italy,Male,Student,Master's,,176
+84,05/02/2023 17:21,45,2000,Bangladesh ,Female,Student,Master's,,152
+85,05/02/2023 17:26,68,1995,India,Female,Employee,,,165
+86,05/02/2023 17:38,47,1997,Bangladesh ,Male,Employee,,,173
+87,05/02/2023 17:43,58,1996,Bangladesh ,Female,Employee,,,155
+88,05/02/2023 17:48,43,1998,Bangladesh ,Female,Student,Master's,,152
+89,05/02/2023 18:17,77,1963,Bangladesh ,Male,Retired,,,175
+90,05/02/2023 18:20,43,1995,Bangladesh ,Female,Teacher,,,152
+91,05/02/2023 18:32,42,2001,Bangladesh ,Female,Student,Bachelor's,,153
+92,05/02/2023 18:53,37,1996,Bangladesh ,Female,Student,Master's,,167
+93,05/02/2023 19:35,55,2003,Bangladesh ,Female,Student,Bachelor's,,153
+94,05/02/2023 19:36,76,2002,Bangladesh ,Male,Student,Bachelor's,,177
+95,05/02/2023 19:45,42,1996,Bangladesh ,Female,Unemployed,,,160
+96,05/02/2023 20:08,56,1997,Bangladesh ,Female,Unemployed,,,165
+97,05/02/2023 20:08,48,1997,Bangladesh ,Female,Employee,,,160.02
+98,05/02/2023 20:29,78,1998,Bangladesh ,Female,Unemployed,,,174
+99,05/02/2023 20:41,74,1998,Bangladesh ,Female,Student,Master's,,157
+100,05/02/2023 21:11,60,1996,Bangladesh ,Female,Employee,,,153
+101,05/02/2023 21:22,65,1996,Russia,Female,Student,Master's,,173
+102,05/02/2023 21:45,52,1971,Italy,Female,Employee,,,157
+103,05/02/2023 22:00,75,1996,Bangladesh ,Female,Employee,,,160.02
+104,05/02/2023 22:21,55,2002,Italy,Female,Student,Bachelor's,,171
+105,05/02/2023 23:12,104,1995,Bangladesh ,Female,Student,PhD,,173.736
+106,05/02/2023 23:24,53,1994,Iran,Male,Student,Master's,,168
+107,05/02/2023 23:34,53,2003,Kosovo,Female,Student,Bachelor's,,170
+108,05/03/2023 01:46,72,2002,Kosovo,Female,Student,Bachelor's,,180
+109,05/03/2023 04:01,66,1996,Bangladesh ,Male,Student,Master's,,170
+110,05/03/2023 04:25,65,2003,Bangladesh ,Male,Student,Bachelor's,,182.88
+111,05/03/2023 04:35,93,1995,Italy,Male,Student,Master's,,170
+112,05/03/2023 05:45,87,1997,Bangladesh ,Female,Employee,,,164
+113,05/03/2023 05:53,104,1997,Bangladesh ,Male,Manager/Owner,,,170.688
+114,05/03/2023 07:08,78,1996,Bangladesh ,Male,Employee,,,177.8
+115,05/03/2023 07:39,61,1196,Pakistan ,Female,Employee,,,5.3
+116,05/03/2023 07:50,65,1992,Bangladesh ,Female,Employee,,,163
+117,05/03/2023 09:03,74,1994,Bangladesh ,Female,Unemployed,,,157
+118,05/03/2023 09:48,65,2000,France,Prefer not to say,Student,Master's,,171
+119,05/03/2023 10:07,60,1994,Mongolia,Female,Student,Master's,,160
+120,05/03/2023 10:20,80,1987,Bangladesh ,Female,Employee,,,160.02
+121,05/03/2023 10:25,65,1997,Bangladesh ,Female,Student,Master's,,155
+122,05/03/2023 11:59,58,1996,Pakistan,Female,Student,PhD,,1.63
+123,05/03/2023 12:11,59,1996,Pakistan,Female,Student,Master's,,167
+124,05/03/2023 12:23,80,1994,Pakistan ,Male,Employee,,,175
+125,05/03/2023 13:18,75,2001,Pakistan ,Female,Student,Bachelor's,,170.688
+126,05/03/2023 14:20,60,1987,Pakistan,Male,Student,PhD,,180
+127,05/03/2023 14:33,75,2001,Italy,Male,Student,Bachelor's,,189
+128,05/03/2023 15:10,62,2003,Italy,Female,Student,Bachelor's,,168
+129,05/03/2023 15:11,62,1999,Pakistan ,Female,Employee,,,162.56
+130,05/03/2023 15:17,58,1997,Pakistan,Female,Housewife ,,,163
+131,05/03/2023 15:33,61,1992,Pakistan ,Female,Employee,,,164
+132,05/03/2023 15:47,65,1991,Ethiopia,Male,Student,PhD,,170
+133,05/03/2023 15:49,67,1996,Bangladesh ,Female,Employee,,,160.02
+134,05/03/2023 15:58,75,2000,Italy,Male,Student,Master's,,185
+135,05/03/2023 16:16,73,1999,Italy,Male,Student,Master's,,180
+136,05/03/2023 16:33,56,1999,Tunisia,Female,Student,Bachelor's,,170
+137,05/03/2023 16:49,70,1997,Germany ,Female,Student,Master's,,175
+138,05/03/2023 16:58,110,1996,Bangladesh ,Male,Student,Master's,,172
+139,05/03/2023 16:59,75,2000,Germany,Male,Student,Bachelor's,,175
+140,05/03/2023 17:30,50,2002,Chile,Female,Student,about to start the Master's but not yet started,,163
+141,05/03/2023 21:23,85,1999,Bangladesh ,Male,Employee,,,170
+142,05/04/2023 00:34,85,1996,Turkey,Prefer not to say,Student,Preuniversity education,,177
+143,05/04/2023 09:58,45,2001,Bangladesh ,Female,Student,Bachelor's,,158
+144,05/04/2023 10:14,65,2000,Italy,Male,Student,Master's,,175
+145,05/04/2023 10:40,66,2001,Bangladesh ,Male,Student,Bachelor's,,170
+146,05/04/2023 12:04,65,1991,Pakistan,Female,Unemployed,,,164
+147,05/04/2023 12:11,63,2001,Brazil,Female,Student,Bachelor's,,165
+148,05/04/2023 12:15,84,2001,Bangladesh ,Female,Student,Bachelor's,,171
+149,05/04/2023 12:57,78,1994,India,Male,Employee,,,175
+150,05/04/2023 14:48,75,1996,Bangladesh ,Male,Employee,,,175
+151,05/04/2023 16:46,65,2000,Bangladesh ,Male,Student,Bachelor's,,168
+152,05/04/2023 20:07,55,1992,United Kingdom ,Female,Employee,,,157
+153,05/04/2023 22:09,55,1964,Germany,Female,Employee,,,162
+154,05/05/2023 17:27,66,1996,Germany,Female,Employee,,,179
+155,05/05/2023 22:27,73,2001,Catalunya,Male,Student,Bachelor's,,191
+156,05/05/2023 22:42,56,2000,Italy,Female,Student,Master's,,165
+157,05/05/2023 23:16,63,1998,Russia ,Female,Student,Master's,,175
+158,05/05/2023 23:52,86,2000,Bangladesh ,Male,Student,Bachelor's,,181
+159,05/06/2023 00:36,54,1996,Bangladesh ,Female,Student,Master's,,157
+160,05/06/2023 00:39,56,1997,Bangladesh ,Female,Employee,,,168
+161,05/06/2023 01:17,64,1996,Bangladesh ,Female,Student,PhD,,160
+162,05/06/2023 02:21,67,1997,Bangladesh ,Male,Employee,,,168
+163,05/06/2023 05:20,62,1998,Spain,Male,Employee,,,175
+164,05/06/2023 06:47,64,1995,Bangladesh ,Female,Student,Bachelor's,,152
+165,05/06/2023 07:33,80,1998,Bangladesh ,Male,Student,Master's,,179
+166,05/06/2023 08:07,50,1999,Spain,Female,Student &Employee,,,162
+167,05/06/2023 08:11,52,2000,Bangladesh ,Female,Student,Bachelor's,,155
+168,05/06/2023 08:43,77,1998,Bangladesh ,Male,Employee,,,179
+169,05/06/2023 09:11,60,1998,Bangladesh ,Male,Employee,,,180
+170,05/06/2023 09:19,88,1995,Bangladesh ,Female,Employee,,,168
+171,05/06/2023 10:14,42,1997,Bangladesh ,Female,Unemployed,,,154
+172,05/06/2023 10:23,57,1997,Bangladesh ,Male,Employee,,,157
+173,05/06/2023 11:33,75,1998,Spain,Male,Employee,,,178
+174,05/06/2023 12:49,63,2000,Romania,Female,Student,Master's,,176
+175,05/06/2023 13:23,64,1997,Bangladesh ,Female,Employee,,,152
+176,05/06/2023 14:37,52,2002,Romania,Prefer not to say,Student,Bachelor's,,167
+177,05/06/2023 14:49,74,1998,Spain,Male,Student,Master's,,177
+178,05/06/2023 18:14,70,1994,Bangladesh ,Male,Manager/Owner,,,176
+179,05/06/2023 19:00,59,1999,Spain,Female,Employee,,,171
+180,05/06/2023 19:06,59,1998,Hungary,Female,Student,Master's,,170
+181,05/06/2023 21:01,78,1996,Bangladesh ,Male,Employee,,,163
+182,05/06/2023 21:10,80,1994,Bangladesh ,Male,Employee,,,162.56
+183,05/06/2023 21:11,64,1995,Bangladesh ,Male,Employee,,,170.688
+184,05/06/2023 22:37,60,1999,Bangladesh ,Female,Unemployed,,,162.56
+185,05/07/2023 02:45,56,1996,Bangladesh ,Female,Employee,,,157
+186,05/07/2023 05:24,83,1997,Bangladesh ,Female,Employee,,,162.56
+187,05/07/2023 09:34,72,1990,Bangladesh ,Female,Student,Master's,,165
+188,05/07/2023 12:25,97,1998,Bangladesh ,Male,Unemployed,,,167
+189,05/07/2023 19:39,55,1994,Bangladesh ,Female,Employee,,,160
+190,05/09/2023 15:18,45,1996,Germany,Female,Student,Master's,,163
+191,05/09/2023 18:29,75,1990,Bangladesh ,Female,Employee,,,153
+192,05/09/2023 18:46,51,1998,Bangladesh ,Female,Employee,,,152.4
+193,05/10/2023 13:40,52,1997,Bangladesh ,Female,Employee,,,162.56
+194,05/10/2023 15:44,59,1998,Bangladesh ,Female,Employee,,,149.86
+195,05/10/2023 16:55,75,1998,Bangladesh ,Female,Student,Master's,,157.48
+196,05/10/2023 17:07,70,1997,Bangladesh ,Female,Employee,,,167.64
+197,05/10/2023 21:47,68,1995,Italy,Male,Student,Master's,,175
+198,5/14/2023 23:12:22,75,1996,Bangladesh ,Female,Employee,,,167
+199,5/16/2023 10:08:41,60,1998,Italy,Female,Student,Master's,,174
